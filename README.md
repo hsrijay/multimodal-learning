@@ -17,4 +17,12 @@ Directory
 5. model_component.py - VAE architecture definition
 6. slurm-2721254.out - training loss log after 8 epochs
 7. train.sh - shell file for training
-8. 8_msvae_a.pkl and 8_msvae_v.pkl - model weights for audio and visual VAE, respectively, trained on VoxCeleb1 dataset for 8 epochs (need to train more)
+8. 8_msvae_a.pkl and 8_msvae_v.pkl - model weights for audio and visual VAE, respectively, trained on VoxCeleb1 dataset for 8 epochs (need to train more)\
+
+References
+*https://github.com/L-YeZhu/Learning-Audio-Visual-Correlations
+*https://github.com/iffsid/mmvae
+*https://github.com/clovaai/voxceleb_trainer
+*https://mm.kaist.ac.kr/datasets/voxceleb/
+*https://github.com/albanie/mcnCrossModalEmotions
+*https://github.com/v-iashin/VoxCeleb
