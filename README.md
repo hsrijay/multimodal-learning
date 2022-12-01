@@ -20,9 +20,9 @@ Directory
 8. 8_msvae_a.pkl and 8_msvae_v.pkl - model weights for audio and visual VAE, respectively, trained on VoxCeleb1 dataset for 8 epochs (need to train more)\
 
 References
-*https://github.com/L-YeZhu/Learning-Audio-Visual-Correlations
-*https://github.com/iffsid/mmvae
-*https://github.com/clovaai/voxceleb_trainer
-*https://mm.kaist.ac.kr/datasets/voxceleb/
-*https://github.com/albanie/mcnCrossModalEmotions
-*https://github.com/v-iashin/VoxCeleb
+* https://github.com/L-YeZhu/Learning-Audio-Visual-Correlations
+* https://github.com/iffsid/mmvae
+* https://github.com/clovaai/voxceleb_trainer
+* https://mm.kaist.ac.kr/datasets/voxceleb/
+* https://github.com/albanie/mcnCrossModalEmotions
+* https://github.com/v-iashin/VoxCeleb
