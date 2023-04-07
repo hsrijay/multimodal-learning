@@ -1,5 +1,5 @@
 # multimodal-learning
-Final project on cross modal representation learning for ECE 685
+Final project on cross modal representation learning for ECE 685 - Deep Learning (Final course grade A+)
 
 Data:
 Download VoxCeleb1 data from https://mm.kaist.ac.kr/datasets/voxceleb/ and run the following commands:
